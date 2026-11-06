@@ -1,0 +1,17 @@
+SARAGURO KALLPAY - Nivel 1
+Taller de videojuegos - Carrera de Computacion, UNL
+
+ARTE
+- Fondo del nivel (assets/fondos/fondo_nivel1.jpg, fondo_menu.jpg): adaptado de fondo.jpg del equipo del proyecto.
+- Wiki (assets/sprites/wiki/wiki_correr_01..08.png): fotogramas del equipo del proyecto, redimensionados.
+- Jugadora, piedra, charco, barro, niebla, meta y elementos de interfaz: PROVISIONALES, generados por computadora. Reemplazar por los dibujos de Krita con el mismo nombre de archivo.
+
+MUSICA Y EFECTOS (PROVISIONALES)
+- musica_nivel1.ogg, musica_victoria.ogg, musica_derrota.ogg y todos los archivos de assets/audio/efectos: sintetizados por computadora para el prototipo, sin derechos de terceros. Reemplazar por grabaciones o pistas libres con el mismo nombre.
+
+PENDIENTES (el juego funciona sin ellos, pero quedan en silencio)
+- assets/audio/efectos/wiki_risa.ogg
+- assets/audio/voces/kallpay.ogg, achachay.ogg, ayayay.ogg, atatay.ogg, yupaychani.ogg
+
+RECURSOS DESCARGADOS
+(Anotar aqui: archivo - autor - enlace - licencia)
