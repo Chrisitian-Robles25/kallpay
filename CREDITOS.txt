@@ -4,7 +4,7 @@ Taller de videojuegos - Carrera de Computacion, UNL
 ARTE
 - Fondo del nivel (assets/fondos/fondo_nivel1.jpg, fondo_menu.jpg): adaptado de fondo.jpg del equipo del proyecto.
 - Wiki (assets/sprites/wiki/wiki_correr_01..08.png): fotogramas del equipo del proyecto, redimensionados.
-- Jugadora, piedra, charco, barro, niebla, meta y elementos de interfaz: PROVISIONALES, generados por computadora. Reemplazar por los dibujos de Krita con el mismo nombre de archivo.
+- Jugadora (incluida la pose agachada), piedra, charco, barro, niebla, borrego, curiquingue, andenes, maiz, botella, meta, estrellas y elementos de interfaz: PROVISIONALES, generados por computadora. Reemplazar por los dibujos de Krita con el mismo nombre de archivo.
 
 MUSICA Y EFECTOS (PROVISIONALES)
 - musica_nivel1.ogg, musica_victoria.ogg, musica_derrota.ogg y todos los archivos de assets/audio/efectos: sintetizados por computadora para el prototipo, sin derechos de terceros. Reemplazar por grabaciones o pistas libres con el mismo nombre.
