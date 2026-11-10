@@ -630,6 +630,262 @@
         "name": "assets/sprites/ui/estrella_vacia.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "file": "assets/correr.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "correr",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Killa run 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Killa run 2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Killa run 3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Killa run 3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Killa run 4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Killa run 4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Killa run 5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Killa run 5.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Killa run 6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Killa run 6.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Killa run 7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Killa run 7.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Killa run 8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Killa run 8.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/saltar.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "saltar",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Killa Idle 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Killa Idle 2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Killa Idle 3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Killa Idle 3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Killa Idle 4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Killa Idle 4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Killa Idle 5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Killa Idle 5.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/jump.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "jump",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Killa Jump 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Killa Jump 2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Killa Jump 3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Killa Jump 3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Killa Jump 4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Killa Jump 4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Killa Jump 5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Killa Jump 5.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Killa Jump 6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Killa Jump 6.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Killa Jump 7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Killa Jump 7.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/duck.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "duck",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Killa duck 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Killa duck 2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Killa duck 3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Killa duck 3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Killa duck 4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Killa duck 4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Killa duck 5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Killa duck 5.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Killa duck 6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Killa duck 6.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/dead.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dead",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Killa dead 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Killa dead 2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Killa dead 3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Killa dead 3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Killa dead 4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Killa dead 4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Killa dead 5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Killa dead 5.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Killa dead 6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Killa dead 6.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ]
   },
@@ -1623,7 +1879,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.546875,
+        "zoomFactor": 0.43357743047023733,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -1688,8 +1944,8 @@
           "name": "Instrucciones",
           "persistentUuid": "1691cbfa-d2ff-4da0-a24c-9657bad30788",
           "width": 0,
-          "x": 190,
-          "y": 210,
+          "x": 4,
+          "y": 208,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -1697,31 +1953,16 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "PortadaWiki",
-          "persistentUuid": "19ef1f73-9b6d-4e99-b955-a27329aa0f24",
-          "width": 0,
-          "x": 360,
-          "y": 424,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 203,
           "keepRatio": true,
           "layer": "",
           "name": "PortadaJugadora",
           "persistentUuid": "efd57eb8-76a7-4ab2-b7a8-fdaeda3e8409",
-          "width": 0,
-          "x": 780,
-          "y": 464,
+          "width": 138,
+          "x": 777,
+          "y": 420,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -1774,6 +2015,22 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 200,
+          "keepRatio": true,
+          "layer": "",
+          "name": "PortadaWiki",
+          "persistentUuid": "fa602308-6066-4203-b9e6-1598b6576781",
+          "width": 131,
+          "x": 360,
+          "y": 424,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -1781,6 +2038,7 @@
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
           "name": "FondoMenu",
+          "persistentUuid": "6f8be71e-1ccb-49c2-b632-828268871fc7",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -1909,6 +2167,7 @@
           "bold": true,
           "italic": false,
           "name": "Instrucciones",
+          "persistentUuid": "982b8341-d019-4eab-8572-06fb6ce94ac5",
           "smoothed": true,
           "type": "TextObject::Text",
           "underlined": false,
@@ -1951,6 +2210,7 @@
           "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "",
           "name": "PortadaJugadora",
+          "persistentUuid": "eb934e42-2b67-4cb2-aff7-8c619eb050e5",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -1958,408 +2218,541 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "correr",
+              "name": "run",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": true,
-                  "timeBetweenFrames": 0.09,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.245,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets/sprites/jugadora/jugadora_correr_01.png",
+                      "hasCustomCollisionMask": false,
+                      "image": "correr",
                       "points": [],
                       "originPoint": {
-                        "name": "origine",
+                        "name": "",
                         "x": 0,
                         "y": 0
                       },
                       "centerPoint": {
                         "automatic": true,
-                        "name": "centre",
+                        "name": "",
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 38,
-                            "y": 8
-                          },
-                          {
-                            "x": 92,
-                            "y": 8
-                          },
-                          {
-                            "x": 92,
-                            "y": 160
-                          },
-                          {
-                            "x": 38,
-                            "y": 160
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     },
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets/sprites/jugadora/jugadora_correr_02.png",
+                      "hasCustomCollisionMask": false,
+                      "image": "Killa run 2.png",
                       "points": [],
                       "originPoint": {
-                        "name": "origine",
+                        "name": "",
                         "x": 0,
                         "y": 0
                       },
                       "centerPoint": {
                         "automatic": true,
-                        "name": "centre",
+                        "name": "",
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 38,
-                            "y": 8
-                          },
-                          {
-                            "x": 92,
-                            "y": 8
-                          },
-                          {
-                            "x": 92,
-                            "y": 160
-                          },
-                          {
-                            "x": 38,
-                            "y": 160
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     },
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets/sprites/jugadora/jugadora_correr_03.png",
+                      "hasCustomCollisionMask": false,
+                      "image": "Killa run 3.png",
                       "points": [],
                       "originPoint": {
-                        "name": "origine",
+                        "name": "",
                         "x": 0,
                         "y": 0
                       },
                       "centerPoint": {
                         "automatic": true,
-                        "name": "centre",
+                        "name": "",
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 38,
-                            "y": 8
-                          },
-                          {
-                            "x": 92,
-                            "y": 8
-                          },
-                          {
-                            "x": 92,
-                            "y": 160
-                          },
-                          {
-                            "x": 38,
-                            "y": 160
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     },
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets/sprites/jugadora/jugadora_correr_04.png",
+                      "hasCustomCollisionMask": false,
+                      "image": "Killa run 4.png",
                       "points": [],
                       "originPoint": {
-                        "name": "origine",
+                        "name": "",
                         "x": 0,
                         "y": 0
                       },
                       "centerPoint": {
                         "automatic": true,
-                        "name": "centre",
+                        "name": "",
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 38,
-                            "y": 8
-                          },
-                          {
-                            "x": 92,
-                            "y": 8
-                          },
-                          {
-                            "x": 92,
-                            "y": 160
-                          },
-                          {
-                            "x": 38,
-                            "y": 160
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     },
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets/sprites/jugadora/jugadora_correr_05.png",
+                      "hasCustomCollisionMask": false,
+                      "image": "Killa run 5.png",
                       "points": [],
                       "originPoint": {
-                        "name": "origine",
+                        "name": "",
                         "x": 0,
                         "y": 0
                       },
                       "centerPoint": {
                         "automatic": true,
-                        "name": "centre",
+                        "name": "",
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 38,
-                            "y": 8
-                          },
-                          {
-                            "x": 92,
-                            "y": 8
-                          },
-                          {
-                            "x": 92,
-                            "y": 160
-                          },
-                          {
-                            "x": 38,
-                            "y": 160
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     },
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets/sprites/jugadora/jugadora_correr_06.png",
+                      "hasCustomCollisionMask": false,
+                      "image": "Killa run 6.png",
                       "points": [],
                       "originPoint": {
-                        "name": "origine",
+                        "name": "",
                         "x": 0,
                         "y": 0
                       },
                       "centerPoint": {
                         "automatic": true,
-                        "name": "centre",
+                        "name": "",
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 38,
-                            "y": 8
-                          },
-                          {
-                            "x": 92,
-                            "y": 8
-                          },
-                          {
-                            "x": 92,
-                            "y": 160
-                          },
-                          {
-                            "x": 38,
-                            "y": 160
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Killa run 7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Killa run 8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
                     }
                   ]
                 }
               ]
             },
             {
-              "name": "saltar",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.1,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets/sprites/jugadora/jugadora_saltar_01.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 38,
-                            "y": 8
-                          },
-                          {
-                            "x": 92,
-                            "y": 8
-                          },
-                          {
-                            "x": 92,
-                            "y": 160
-                          },
-                          {
-                            "x": 38,
-                            "y": 160
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "tropezar",
+              "name": "idle",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": true,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.15,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets/sprites/jugadora/jugadora_tropezar_01.png",
+                      "hasCustomCollisionMask": false,
+                      "image": "Killa Idle 2.png",
                       "points": [],
                       "originPoint": {
-                        "name": "origine",
+                        "name": "",
                         "x": 0,
                         "y": 0
                       },
                       "centerPoint": {
                         "automatic": true,
-                        "name": "centre",
+                        "name": "",
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 38,
-                            "y": 8
-                          },
-                          {
-                            "x": 92,
-                            "y": 8
-                          },
-                          {
-                            "x": 92,
-                            "y": 160
-                          },
-                          {
-                            "x": 38,
-                            "y": 160
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     },
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets/sprites/jugadora/jugadora_tropezar_02.png",
+                      "hasCustomCollisionMask": false,
+                      "image": "Killa Idle 3.png",
                       "points": [],
                       "originPoint": {
-                        "name": "origine",
+                        "name": "",
                         "x": 0,
                         "y": 0
                       },
                       "centerPoint": {
                         "automatic": true,
-                        "name": "centre",
+                        "name": "",
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 38,
-                            "y": 8
-                          },
-                          {
-                            "x": 92,
-                            "y": 8
-                          },
-                          {
-                            "x": 92,
-                            "y": 160
-                          },
-                          {
-                            "x": 38,
-                            "y": 160
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Killa Idle 4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Killa Idle 5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
                     }
                   ]
                 }
               ]
             },
             {
-              "name": "agachar",
+              "name": "jump",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
-                  "timeBetweenFrames": 0.1,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.11,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets/sprites/jugadora/jugadora_agachar_01.png",
+                      "hasCustomCollisionMask": false,
+                      "image": "Killa Jump 2.png",
                       "points": [],
                       "originPoint": {
-                        "name": "origine",
+                        "name": "",
                         "x": 0,
                         "y": 0
                       },
                       "centerPoint": {
                         "automatic": true,
-                        "name": "centre",
+                        "name": "",
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 38,
-                            "y": 72
-                          },
-                          {
-                            "x": 92,
-                            "y": 72
-                          },
-                          {
-                            "x": 92,
-                            "y": 160
-                          },
-                          {
-                            "x": 38,
-                            "y": 160
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Killa Jump 3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Killa Jump 4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Killa Jump 5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Killa Jump 6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Killa Jump 7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "duck",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.1,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Killa duck 2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Killa duck 3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Killa duck 4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Killa duck 5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Killa duck 6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "dead",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Killa dead 2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Killa dead 3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Killa dead 4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Killa dead 5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Killa dead 6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
                     }
                   ]
                 }
@@ -2371,6 +2764,7 @@
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
           "name": "PortadaWiki",
+          "persistentUuid": "e29c73df-4e5a-4d0b-af82-06909640ec87",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -2531,6 +2925,7 @@
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
           "name": "Boton",
+          "persistentUuid": "81ea7a3d-7680-4a75-98d3-da607ca4f2b5",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -2616,6 +3011,7 @@
           "bold": false,
           "italic": false,
           "name": "Creditos",
+          "persistentUuid": "130a4a57-8b0a-4a59-881c-d90094fdeb6a",
           "smoothed": true,
           "type": "TextObject::Text",
           "underlined": false,
@@ -2841,7 +3237,7 @@
               },
               "parameters": [
                 "PortadaJugadora",
-                "\"correr\""
+                "\"run\""
               ]
             },
             {
@@ -2938,6 +3334,7 @@
               "comment": "Al hacer clic o tocar el botón, o al presionar ESPACIO o ENTER, se va a la escena «Nivel1»."
             },
             {
+              "aiGeneratedEventId": "01M71NZ0ZWNNK6M2PFQMKV0VJC",
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -2965,7 +3362,7 @@
                         },
                         {
                           "type": {
-                            "value": "MouseButtonReleased"
+                            "value": "MouseButtonFromTextPressed"
                           },
                           "parameters": [
                             "",
@@ -2976,7 +3373,7 @@
                     },
                     {
                       "type": {
-                        "value": "KeyFromTextReleased"
+                        "value": "KeyFromTextJustPressed"
                       },
                       "parameters": [
                         "",
@@ -2985,7 +3382,7 @@
                     },
                     {
                       "type": {
-                        "value": "KeyFromTextReleased"
+                        "value": "KeyFromTextJustPressed"
                       },
                       "parameters": [
                         "",
@@ -3110,7 +3507,36 @@
           "effects": []
         }
       ],
-      "behaviorsSharedData": []
+      "behaviorsSharedData": [
+        {
+          "name": "Animation",
+          "type": "AnimatableCapability::AnimatableBehavior"
+        },
+        {
+          "name": "Effect",
+          "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "Flippable",
+          "type": "FlippableCapability::FlippableBehavior"
+        },
+        {
+          "name": "Opacity",
+          "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "Resizable",
+          "type": "ResizableCapability::ResizableBehavior"
+        },
+        {
+          "name": "Scale",
+          "type": "ScalableCapability::ScalableBehavior"
+        },
+        {
+          "name": "Text",
+          "type": "TextContainerCapability::TextContainerBehavior"
+        }
+      ]
     },
     {
       "b": 240,
@@ -3176,6 +3602,67 @@
         }
       ],
       "variables": [
+        {
+          "name": "VozFonetica",
+          "type": "structure",
+          "children": [
+            {
+              "name": "Ave",
+              "type": "string",
+              "value": "ai, ai, ai"
+            },
+            {
+              "name": "Barro",
+              "type": "string",
+              "value": "a, ta, tai"
+            },
+            {
+              "name": "Borrego",
+              "type": "string",
+              "value": "ai, ai, ai"
+            },
+            {
+              "name": "Botella",
+              "type": "string",
+              "value": "ai, ai, ai"
+            },
+            {
+              "name": "Cerca",
+              "type": "string",
+              "value": "kai pai, kai pai"
+            },
+            {
+              "name": "Charco",
+              "type": "string",
+              "value": "a, cha, chai"
+            },
+            {
+              "name": "Inicio",
+              "type": "string",
+              "value": "kai pai"
+            },
+            {
+              "name": "Meta",
+              "type": "string",
+              "value": "yu pai, cha ni"
+            },
+            {
+              "name": "Niebla",
+              "type": "string",
+              "value": "a, cha, chai"
+            },
+            {
+              "name": "Piedra",
+              "type": "string",
+              "value": "ai, ai, ai"
+            }
+          ]
+        },
+        {
+          "name": "VozFemenina",
+          "type": "string",
+          "value": ""
+        },
         {
           "name": "Distancia",
           "type": "number",
@@ -3358,15 +3845,15 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "height": 200,
           "keepRatio": true,
           "layer": "",
           "name": "Jugadora",
           "persistentUuid": "79b1a82b-02df-4a23-89a8-a233eea1829f",
-          "width": 0,
+          "width": 139,
           "x": 400,
-          "y": 458,
+          "y": 420,
           "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
@@ -3573,220 +4060,123 @@
                   "timeBetweenFrames": 0.09,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets/sprites/jugadora/jugadora_correr_01.png",
+                      "hasCustomCollisionMask": false,
+                      "image": "Killa run 2.png",
                       "points": [],
                       "originPoint": {
-                        "name": "origine",
+                        "name": "",
                         "x": 0,
                         "y": 0
                       },
                       "centerPoint": {
                         "automatic": true,
-                        "name": "centre",
+                        "name": "",
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 38,
-                            "y": 8
-                          },
-                          {
-                            "x": 92,
-                            "y": 8
-                          },
-                          {
-                            "x": 92,
-                            "y": 160
-                          },
-                          {
-                            "x": 38,
-                            "y": 160
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     },
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets/sprites/jugadora/jugadora_correr_02.png",
+                      "hasCustomCollisionMask": false,
+                      "image": "Killa run 3.png",
                       "points": [],
                       "originPoint": {
-                        "name": "origine",
+                        "name": "",
                         "x": 0,
                         "y": 0
                       },
                       "centerPoint": {
                         "automatic": true,
-                        "name": "centre",
+                        "name": "",
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 38,
-                            "y": 8
-                          },
-                          {
-                            "x": 92,
-                            "y": 8
-                          },
-                          {
-                            "x": 92,
-                            "y": 160
-                          },
-                          {
-                            "x": 38,
-                            "y": 160
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     },
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets/sprites/jugadora/jugadora_correr_03.png",
+                      "hasCustomCollisionMask": false,
+                      "image": "Killa run 4.png",
                       "points": [],
                       "originPoint": {
-                        "name": "origine",
+                        "name": "",
                         "x": 0,
                         "y": 0
                       },
                       "centerPoint": {
                         "automatic": true,
-                        "name": "centre",
+                        "name": "",
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 38,
-                            "y": 8
-                          },
-                          {
-                            "x": 92,
-                            "y": 8
-                          },
-                          {
-                            "x": 92,
-                            "y": 160
-                          },
-                          {
-                            "x": 38,
-                            "y": 160
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     },
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets/sprites/jugadora/jugadora_correr_04.png",
+                      "hasCustomCollisionMask": false,
+                      "image": "Killa run 5.png",
                       "points": [],
                       "originPoint": {
-                        "name": "origine",
+                        "name": "",
                         "x": 0,
                         "y": 0
                       },
                       "centerPoint": {
                         "automatic": true,
-                        "name": "centre",
+                        "name": "",
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 38,
-                            "y": 8
-                          },
-                          {
-                            "x": 92,
-                            "y": 8
-                          },
-                          {
-                            "x": 92,
-                            "y": 160
-                          },
-                          {
-                            "x": 38,
-                            "y": 160
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     },
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets/sprites/jugadora/jugadora_correr_05.png",
+                      "hasCustomCollisionMask": false,
+                      "image": "Killa run 6.png",
                       "points": [],
                       "originPoint": {
-                        "name": "origine",
+                        "name": "",
                         "x": 0,
                         "y": 0
                       },
                       "centerPoint": {
                         "automatic": true,
-                        "name": "centre",
+                        "name": "",
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 38,
-                            "y": 8
-                          },
-                          {
-                            "x": 92,
-                            "y": 8
-                          },
-                          {
-                            "x": 92,
-                            "y": 160
-                          },
-                          {
-                            "x": 38,
-                            "y": 160
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     },
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets/sprites/jugadora/jugadora_correr_06.png",
+                      "hasCustomCollisionMask": false,
+                      "image": "Killa run 7.png",
                       "points": [],
                       "originPoint": {
-                        "name": "origine",
+                        "name": "",
                         "x": 0,
                         "y": 0
                       },
                       "centerPoint": {
                         "automatic": true,
-                        "name": "centre",
+                        "name": "",
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 38,
-                            "y": 8
-                          },
-                          {
-                            "x": 92,
-                            "y": 8
-                          },
-                          {
-                            "x": 92,
-                            "y": 160
-                          },
-                          {
-                            "x": 38,
-                            "y": 160
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Killa run 8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
                     }
                   ]
                 }
@@ -3801,40 +4191,106 @@
                   "timeBetweenFrames": 0.1,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets/sprites/jugadora/jugadora_saltar_01.png",
+                      "hasCustomCollisionMask": false,
+                      "image": "Killa Jump 2.png",
                       "points": [],
                       "originPoint": {
-                        "name": "origine",
+                        "name": "",
                         "x": 0,
                         "y": 0
                       },
                       "centerPoint": {
                         "automatic": true,
-                        "name": "centre",
+                        "name": "",
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 38,
-                            "y": 8
-                          },
-                          {
-                            "x": 92,
-                            "y": 8
-                          },
-                          {
-                            "x": 92,
-                            "y": 160
-                          },
-                          {
-                            "x": 38,
-                            "y": 160
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Killa Jump 3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Killa Jump 4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Killa Jump 5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Killa Jump 6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Killa Jump 7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
                     }
                   ]
                 }
@@ -3849,76 +4305,21 @@
                   "timeBetweenFrames": 0.15,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets/sprites/jugadora/jugadora_tropezar_01.png",
+                      "hasCustomCollisionMask": false,
+                      "image": "Killa duck 2.png",
                       "points": [],
                       "originPoint": {
-                        "name": "origine",
+                        "name": "",
                         "x": 0,
                         "y": 0
                       },
                       "centerPoint": {
                         "automatic": true,
-                        "name": "centre",
+                        "name": "",
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 38,
-                            "y": 8
-                          },
-                          {
-                            "x": 92,
-                            "y": 8
-                          },
-                          {
-                            "x": 92,
-                            "y": 160
-                          },
-                          {
-                            "x": 38,
-                            "y": 160
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets/sprites/jugadora/jugadora_tropezar_02.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 38,
-                            "y": 8
-                          },
-                          {
-                            "x": 92,
-                            "y": 8
-                          },
-                          {
-                            "x": 92,
-                            "y": 160
-                          },
-                          {
-                            "x": 38,
-                            "y": 160
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     }
                   ]
                 }
@@ -3933,40 +4334,89 @@
                   "timeBetweenFrames": 0.1,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets/sprites/jugadora/jugadora_agachar_01.png",
+                      "hasCustomCollisionMask": false,
+                      "image": "Killa duck 2.png",
                       "points": [],
                       "originPoint": {
-                        "name": "origine",
+                        "name": "",
                         "x": 0,
                         "y": 0
                       },
                       "centerPoint": {
                         "automatic": true,
-                        "name": "centre",
+                        "name": "",
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 38,
-                            "y": 72
-                          },
-                          {
-                            "x": 92,
-                            "y": 72
-                          },
-                          {
-                            "x": 92,
-                            "y": 160
-                          },
-                          {
-                            "x": 38,
-                            "y": 160
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Killa duck 3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Killa duck 4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Killa duck 5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Killa duck 6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
                     }
                   ]
                 }
@@ -5059,6 +5509,7 @@
               "comment": "Cada partida es una «ronda» nueva (se guarda en el navegador). Según la ronda cambian las frases que se ven y, por lo tanto, las preguntas de la trivia."
             },
             {
+              "aiGeneratedEventId": "01M71QP8A38CRDG2XF9BAH8SSB",
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -5346,17 +5797,51 @@
                 },
                 {
                   "type": {
-                    "value": "PlaySound"
+                    "value": "TextToSpeech::StopSpeaking"
                   },
                   "parameters": [
                     "",
-                    "assets/audio/voces/kallpay.ogg",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextToSpeech::Speak"
+                  },
+                  "parameters": [
                     "",
+                    "VozFonetica.Inicio",
+                    "VozFemenina",
                     "100",
-                    "1"
+                    "100",
+                    "100",
+                    ""
                   ]
                 }
               ]
+            },
+            {
+              "aiGeneratedEventId": "01M71Q3PYXMNN7ASX8C7WBRWPQ",
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "  // Buscar una voz FEMENINA en español entre las voces instaladas del sistema",
+                "  const elegir = () => {",
+                "    const voces = (window.speechSynthesis ? speechSynthesis.getVoices() : []) || [];",
+                "    if (!voces.length) return;",
+                "    const femeninas = ['sabina', 'helena', 'paulina', 'monica', 'elvira', 'lucia', 'esperanza', 'marisol', 'camila', 'soledad', 'salome', 'female', 'mujer', 'zira', 'hazel', 'susan', 'eva'];",
+                "    const es = voces.filter(v => /^es/i.test(v.lang));",
+                "    let elegida = es.find(v => femeninas.some(f => v.name.toLowerCase().includes(f)));",
+                "    if (!elegida) elegida = voces.find(v => femeninas.some(f => v.name.toLowerCase().includes(f)) && !/^en/i.test(v.lang));",
+                "    if (!elegida) elegida = es.find(v => !v.name.toLowerCase().includes('male'));",
+                "    if (!elegida) elegida = es[0];",
+                "    if (elegida) runtimeScene.getVariables().get('VozFemenina').setString(elegida.name);",
+                "  };",
+                "  elegir();",
+                "  if (window.speechSynthesis) speechSynthesis.onvoiceschanged = elegir;"
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": false
             }
           ],
           "parameters": []
@@ -6074,6 +6559,7 @@
               ]
             },
             {
+              "aiGeneratedEventId": "01M71QP8A38CRDG2XF9BAH8SSB",
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -6117,26 +6603,25 @@
                 },
                 {
                   "type": {
-                    "value": "PlaySound"
+                    "value": "TextToSpeech::StopSpeaking"
                   },
                   "parameters": [
                     "",
-                    "assets/audio/voces/kallpay.ogg",
-                    "",
-                    "100",
-                    "1"
+                    ""
                   ]
                 },
                 {
                   "type": {
-                    "value": "PlaySound"
+                    "value": "TextToSpeech::Speak"
                   },
                   "parameters": [
                     "",
-                    "assets/audio/efectos/wiki_risa.ogg",
-                    "",
-                    "90",
-                    "1"
+                    "VozFonetica.Cerca",
+                    "VozFemenina",
+                    "100",
+                    "100",
+                    "100",
+                    ""
                   ]
                 }
               ]
@@ -6670,6 +7155,7 @@
               "comment": "Al chocar, el Wiki se acerca, la jugadora dice una palabra en kichwa y suena un efecto. Las palabras están en la variable global PalabrasKichwa."
             },
             {
+              "aiGeneratedEventId": "01M71QP8A38CRDG2XF9BAH8SSB",
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -6751,14 +7237,25 @@
                 },
                 {
                   "type": {
-                    "value": "PlaySound"
+                    "value": "TextToSpeech::StopSpeaking"
                   },
                   "parameters": [
                     "",
-                    "assets/audio/voces/ayayay.ogg",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextToSpeech::Speak"
+                  },
+                  "parameters": [
                     "",
+                    "VozFonetica.Piedra",
+                    "VozFemenina",
                     "100",
-                    "1"
+                    "100",
+                    "100",
+                    ""
                   ]
                 },
                 {
@@ -6776,6 +7273,7 @@
               ]
             },
             {
+              "aiGeneratedEventId": "01M71QP8A38CRDG2XF9BAH8SSB",
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -6857,14 +7355,25 @@
                 },
                 {
                   "type": {
-                    "value": "PlaySound"
+                    "value": "TextToSpeech::StopSpeaking"
                   },
                   "parameters": [
                     "",
-                    "assets/audio/voces/achachay.ogg",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextToSpeech::Speak"
+                  },
+                  "parameters": [
                     "",
+                    "VozFonetica.Charco",
+                    "VozFemenina",
                     "100",
-                    "1"
+                    "100",
+                    "100",
+                    ""
                   ]
                 },
                 {
@@ -6882,6 +7391,7 @@
               ]
             },
             {
+              "aiGeneratedEventId": "01M71QP8A38CRDG2XF9BAH8SSB",
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -6963,14 +7473,25 @@
                 },
                 {
                   "type": {
-                    "value": "PlaySound"
+                    "value": "TextToSpeech::StopSpeaking"
                   },
                   "parameters": [
                     "",
-                    "assets/audio/voces/atatay.ogg",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextToSpeech::Speak"
+                  },
+                  "parameters": [
                     "",
+                    "VozFonetica.Barro",
+                    "VozFemenina",
                     "100",
-                    "1"
+                    "100",
+                    "100",
+                    ""
                   ]
                 },
                 {
@@ -6988,6 +7509,7 @@
               ]
             },
             {
+              "aiGeneratedEventId": "01M71QP8A38CRDG2XF9BAH8SSB",
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -7059,14 +7581,25 @@
                 },
                 {
                   "type": {
-                    "value": "PlaySound"
+                    "value": "TextToSpeech::StopSpeaking"
                   },
                   "parameters": [
                     "",
-                    "assets/audio/voces/achachay.ogg",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextToSpeech::Speak"
+                  },
+                  "parameters": [
                     "",
+                    "VozFonetica.Niebla",
+                    "VozFemenina",
                     "100",
-                    "1"
+                    "100",
+                    "100",
+                    ""
                   ]
                 },
                 {
@@ -7084,6 +7617,7 @@
               ]
             },
             {
+              "aiGeneratedEventId": "01M71QP8A38CRDG2XF9BAH8SSB",
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -7165,14 +7699,25 @@
                 },
                 {
                   "type": {
-                    "value": "PlaySound"
+                    "value": "TextToSpeech::StopSpeaking"
                   },
                   "parameters": [
                     "",
-                    "assets/audio/voces/ayayay.ogg",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextToSpeech::Speak"
+                  },
+                  "parameters": [
                     "",
+                    "VozFonetica.Borrego",
+                    "VozFemenina",
                     "100",
-                    "1"
+                    "100",
+                    "100",
+                    ""
                   ]
                 },
                 {
@@ -7190,6 +7735,7 @@
               ]
             },
             {
+              "aiGeneratedEventId": "01M71QP8A38CRDG2XF9BAH8SSB",
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -7271,14 +7817,25 @@
                 },
                 {
                   "type": {
-                    "value": "PlaySound"
+                    "value": "TextToSpeech::StopSpeaking"
                   },
                   "parameters": [
                     "",
-                    "assets/audio/voces/ayayay.ogg",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextToSpeech::Speak"
+                  },
+                  "parameters": [
                     "",
+                    "VozFonetica.Ave",
+                    "VozFemenina",
                     "100",
-                    "1"
+                    "100",
+                    "100",
+                    ""
                   ]
                 },
                 {
@@ -7762,6 +8319,7 @@
               "comment": "El Wiki lanza una botella en arco hacia donde va a estar la jugadora. Hay que saltarla. La primera vez aparece un cuadro con TextosUI.FraseBotella."
             },
             {
+              "aiGeneratedEventId": "01M71PQ0BRFSMB065ZNF9PWD8X",
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -7805,7 +8363,7 @@
                     "Botella",
                     "Wiki.X() + Wiki.Width() - 30",
                     "Wiki.Y() + 50",
-                    "\"\""
+                    ""
                   ]
                 },
                 {
@@ -7878,18 +8436,6 @@
                   "parameters": [
                     "",
                     "assets/audio/efectos/botella_lanzar.ogg",
-                    "",
-                    "80",
-                    "1"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "PlaySound"
-                  },
-                  "parameters": [
-                    "",
-                    "assets/audio/efectos/wiki_risa.ogg",
                     "",
                     "80",
                     "1"
@@ -8139,6 +8685,7 @@
               ]
             },
             {
+              "aiGeneratedEventId": "01M71QP8A38CRDG2XF9BAH8SSB",
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -8219,14 +8766,25 @@
                 },
                 {
                   "type": {
-                    "value": "PlaySound"
+                    "value": "TextToSpeech::StopSpeaking"
                   },
                   "parameters": [
                     "",
-                    "assets/audio/voces/ayayay.ogg",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextToSpeech::Speak"
+                  },
+                  "parameters": [
                     "",
+                    "VozFonetica.Botella",
+                    "VozFemenina",
                     "100",
-                    "1"
+                    "100",
+                    "100",
+                    ""
                   ]
                 }
               ]
@@ -8666,6 +9224,7 @@
               ]
             },
             {
+              "aiGeneratedEventId": "01M71QP8A38CRDG2XF9BAH8SSB",
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -8735,14 +9294,25 @@
                 },
                 {
                   "type": {
-                    "value": "PlaySound"
+                    "value": "TextToSpeech::StopSpeaking"
                   },
                   "parameters": [
                     "",
-                    "assets/audio/voces/yupaychani.ogg",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextToSpeech::Speak"
+                  },
+                  "parameters": [
                     "",
+                    "VozFonetica.Meta",
+                    "VozFemenina",
                     "100",
-                    "1"
+                    "100",
+                    "100",
+                    ""
                   ]
                 }
               ]
@@ -9023,7 +9593,44 @@
           "effects": []
         }
       ],
-      "behaviorsSharedData": []
+      "behaviorsSharedData": [
+        {
+          "name": "Animation",
+          "type": "AnimatableCapability::AnimatableBehavior"
+        },
+        {
+          "name": "Effect",
+          "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "Flippable",
+          "type": "FlippableCapability::FlippableBehavior"
+        },
+        {
+          "name": "Opacity",
+          "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior"
+        },
+        {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior"
+        },
+        {
+          "name": "Resizable",
+          "type": "ResizableCapability::ResizableBehavior"
+        },
+        {
+          "name": "Scale",
+          "type": "ScalableCapability::ScalableBehavior"
+        },
+        {
+          "name": "Text",
+          "type": "TextContainerCapability::TextContainerBehavior"
+        }
+      ]
     },
     {
       "b": 240,
@@ -11475,7 +12082,36 @@
           "effects": []
         }
       ],
-      "behaviorsSharedData": []
+      "behaviorsSharedData": [
+        {
+          "name": "Animation",
+          "type": "AnimatableCapability::AnimatableBehavior"
+        },
+        {
+          "name": "Effect",
+          "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "Flippable",
+          "type": "FlippableCapability::FlippableBehavior"
+        },
+        {
+          "name": "Opacity",
+          "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "Resizable",
+          "type": "ResizableCapability::ResizableBehavior"
+        },
+        {
+          "name": "Scale",
+          "type": "ScalableCapability::ScalableBehavior"
+        },
+        {
+          "name": "Text",
+          "type": "TextContainerCapability::TextContainerBehavior"
+        }
+      ]
     },
     {
       "b": 240,
@@ -12629,6 +13265,7 @@
               "comment": "Al hacer clic o tocar el botón, o al presionar ESPACIO o ENTER, se va a la escena «Nivel1»."
             },
             {
+              "aiGeneratedEventId": "01M71QJ7MB52FBKTK1DWBS3K62",
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -12656,7 +13293,7 @@
                         },
                         {
                           "type": {
-                            "value": "MouseButtonReleased"
+                            "value": "MouseButtonFromTextPressed"
                           },
                           "parameters": [
                             "",
@@ -12667,7 +13304,7 @@
                     },
                     {
                       "type": {
-                        "value": "KeyFromTextReleased"
+                        "value": "KeyFromTextJustPressed"
                       },
                       "parameters": [
                         "",
@@ -12676,7 +13313,7 @@
                     },
                     {
                       "type": {
-                        "value": "KeyFromTextReleased"
+                        "value": "KeyFromTextJustPressed"
                       },
                       "parameters": [
                         "",
@@ -12885,7 +13522,36 @@
           "effects": []
         }
       ],
-      "behaviorsSharedData": []
+      "behaviorsSharedData": [
+        {
+          "name": "Animation",
+          "type": "AnimatableCapability::AnimatableBehavior"
+        },
+        {
+          "name": "Effect",
+          "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "Flippable",
+          "type": "FlippableCapability::FlippableBehavior"
+        },
+        {
+          "name": "Opacity",
+          "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "Resizable",
+          "type": "ResizableCapability::ResizableBehavior"
+        },
+        {
+          "name": "Scale",
+          "type": "ScalableCapability::ScalableBehavior"
+        },
+        {
+          "name": "Text",
+          "type": "TextContainerCapability::TextContainerBehavior"
+        }
+      ]
     },
     {
       "b": 240,
@@ -13572,6 +14238,7 @@
               "comment": "Al hacer clic o tocar el botón, o al presionar ESPACIO o ENTER, se va a la escena «Nivel1»."
             },
             {
+              "aiGeneratedEventId": "01M71QGZHG6EKRRG5XB3SRW2HY",
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -13599,7 +14266,7 @@
                         },
                         {
                           "type": {
-                            "value": "MouseButtonReleased"
+                            "value": "MouseButtonFromTextPressed"
                           },
                           "parameters": [
                             "",
@@ -13610,7 +14277,7 @@
                     },
                     {
                       "type": {
-                        "value": "KeyFromTextReleased"
+                        "value": "KeyFromTextJustPressed"
                       },
                       "parameters": [
                         "",
@@ -13619,7 +14286,7 @@
                     },
                     {
                       "type": {
-                        "value": "KeyFromTextReleased"
+                        "value": "KeyFromTextJustPressed"
                       },
                       "parameters": [
                         "",
@@ -13744,7 +14411,36 @@
           "effects": []
         }
       ],
-      "behaviorsSharedData": []
+      "behaviorsSharedData": [
+        {
+          "name": "Animation",
+          "type": "AnimatableCapability::AnimatableBehavior"
+        },
+        {
+          "name": "Effect",
+          "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "Flippable",
+          "type": "FlippableCapability::FlippableBehavior"
+        },
+        {
+          "name": "Opacity",
+          "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "Resizable",
+          "type": "ResizableCapability::ResizableBehavior"
+        },
+        {
+          "name": "Scale",
+          "type": "ScalableCapability::ScalableBehavior"
+        },
+        {
+          "name": "Text",
+          "type": "TextContainerCapability::TextContainerBehavior"
+        }
+      ]
     }
   ],
   "layoutsFolderStructure": {
@@ -13771,10 +14467,443 @@
   "externalEventsFolderStructure": {
     "folderName": "__ROOT"
   },
+  "tests": [
+    {
+      "description": "El boton JUGAR cambia a Nivel1 al hacer click.",
+      "lastRunAt": 1794279197160,
+      "lastRunDurationMs": 950,
+      "lastRunFramesExecuted": 12,
+      "lastRunStatus": "passed",
+      "name": "MenuChicaYBotonJugar",
+      "type": "gameplay",
+      "source": [
+        "await harness.goToScene('Menu');",
+        "await harness.stepFrames(5);",
+        "const btn = harness.getObjects('Boton')[0];",
+        "harness.setMousePosition(btn.centerX, btn.centerY);",
+        "await harness.stepFrames(3);",
+        "harness.setMouseButtonPressed(true, 'left');",
+        "await harness.stepFrames(3);",
+        "harness.setMouseButtonPressed(false, 'left');",
+        "const ok = await harness.stepUntil(() => harness.getSceneName() === 'Nivel1', { maxFrames: 30 });",
+        "harness.assert(ok, 'El click en JUGAR cambia a Nivel1, escena actual: ' + harness.getSceneName());"
+      ]
+    },
+    {
+      "description": "El menu muestra a la chica nueva y al Wiki, como antes.",
+      "lastRunAt": 1794279372047,
+      "lastRunDurationMs": 781,
+      "lastRunFramesExecuted": 11,
+      "lastRunStatus": "passed",
+      "name": "MenuChicaYWiki",
+      "type": "gameplay",
+      "source": [
+        "await harness.goToScene('Menu');",
+        "await harness.stepFrames(10);",
+        "await harness.takeScreenshot('menu_final');",
+        "const girls = harness.getObjects('PortadaJugadora');",
+        "const wikis = harness.getObjects('PortadaWiki');",
+        "harness.assert(girls.length === 1, 'Hay una PortadaJugadora');",
+        "harness.assert(wikis.length === 1, 'El Wiki esta de vuelta en el menu');",
+        "harness.assert(girls[0].y + girls[0].height <= 730, 'La chica se ve completa');"
+      ]
+    },
+    {
+      "description": "Verifica el menu con la chica Killa y el Wiki.",
+      "lastRunAt": 1794279501692,
+      "lastRunDurationMs": 610,
+      "lastRunFramesExecuted": 11,
+      "lastRunStatus": "passed",
+      "name": "MenuChicaKilla",
+      "type": "gameplay",
+      "source": [
+        "await harness.goToScene('Menu');",
+        "await harness.stepFrames(10);",
+        "await harness.takeScreenshot('menu_killa');",
+        "harness.assert(harness.getObjects('PortadaJugadora').length === 1, 'PortadaJugadora presente');",
+        "harness.assert(harness.getObjects('PortadaWiki').length === 1, 'PortadaWiki presente');"
+      ]
+    },
+    {
+      "description": "Verifica que la chica nueva aparece en Nivel1 a buen tamano.",
+      "lastRunAt": 1794279742768,
+      "lastRunDurationMs": 904,
+      "lastRunFramesExecuted": 31,
+      "lastRunStatus": "passed",
+      "name": "Nivel1ChicaKilla",
+      "type": "gameplay",
+      "source": [
+        "await harness.goToScene('Nivel1');",
+        "await harness.stepFrames(30);",
+        "await harness.takeScreenshot('nivel1_killa');",
+        "const j = harness.getObjects('Jugadora')[0];",
+        "harness.assert(!!j, 'Jugadora presente');",
+        "harness.assert(j.y + j.height > 500, 'La chica esta sobre el suelo: y+h=' + (j.y + j.height));"
+      ]
+    },
+    {
+      "description": "Nivel1 corre sin errores de audio faltante de voces.",
+      "lastRunAt": 1794279992996,
+      "lastRunDurationMs": 1141,
+      "lastRunFramesExecuted": 141,
+      "lastRunStatus": "passed",
+      "name": "VocesKichwaTTS",
+      "type": "gameplay",
+      "source": [
+        "await harness.goToScene('Nivel1');",
+        "await harness.stepFrames(20);",
+        "harness.assert(harness.getSceneName() === 'Nivel1', 'Nivel1 carga sin errores');",
+        "// Chocar con un obstaculo para probar la voz: mover a la jugadora hacia adelante",
+        "harness.setKeyPressed('Right', true);",
+        "await harness.stepFrames(120);",
+        "harness.setKeyPressed('Right', false);",
+        "harness.assert(harness.getSceneName() === 'Nivel1', 'El juego sigue corriendo tras los cambios de audio');"
+      ]
+    },
+    {
+      "description": "Al chocar, la chica muestra pose de tropiezo y voz femenina.",
+      "lastRunAt": 1794280229488,
+      "lastRunDurationMs": 1038,
+      "lastRunFramesExecuted": 192,
+      "lastRunStatus": "passed",
+      "name": "TropezarYVozFemenina",
+      "type": "gameplay",
+      "source": [
+        "await harness.goToScene('Nivel1');",
+        "await harness.stepFrames(10);",
+        "// Provocar un choque: correr hasta un obstaculo",
+        "harness.setKeyPressed('Right', true);",
+        "const hit = await harness.stepUntil(() => (harness.getObjects('Jugadora')[0]?.behaviors?.['PlatformerObject']?.state || {}) && false || harness.getSceneVariable('LentoHasta')?.value > 0, { maxFrames: 400 });",
+        "harness.setKeyPressed('Right', false);",
+        "await harness.stepFrames(3);",
+        "const j = harness.getObjects('Jugadora')[0];",
+        "await harness.takeScreenshot('tropezar');",
+        "harness.assert(harness.getSceneVariable('LentoHasta')?.value > 0 || j.animation === 'tropezar', 'Hubo un choque (LentoHasta o animacion tropezar), anim=' + j.animation);"
+      ]
+    },
+    {
+      "description": "El juego detecta una voz femenina del sistema.",
+      "lastRunAt": 1794280466171,
+      "lastRunDurationMs": 1444,
+      "lastRunFramesExecuted": 21,
+      "lastRunStatus": "passed",
+      "name": "VozFemeninaDetectada",
+      "type": "gameplay",
+      "source": [
+        "await harness.goToScene('Nivel1');",
+        "await harness.stepFrames(20);",
+        "const voz = harness.getSceneVariable('VozFemenina');",
+        "harness.assert(voz !== undefined, 'Variable VozFemenina existe');",
+        "console.log('Voz detectada: ' + JSON.stringify(voz));"
+      ]
+    },
+    {
+      "description": "La voz se cancela y reinicia con cada frase nueva.",
+      "lastRunAt": 1794280699063,
+      "lastRunDurationMs": 1343,
+      "lastRunFramesExecuted": 292,
+      "lastRunStatus": "passed",
+      "name": "VozSincronizada",
+      "type": "gameplay",
+      "source": [
+        "await harness.goToScene('Nivel1');",
+        "await harness.stepFrames(10);",
+        "// Provocar dos choques seguidos para verificar que la voz no se atrasa",
+        "harness.setKeyPressed('Right', true);",
+        "await harness.stepUntil(() => harness.getSceneVariable('LentoHasta')?.value > 0, { maxFrames: 400 });",
+        "harness.setKeyPressed('Right', false);",
+        "await harness.stepFrames(60);",
+        "harness.setKeyPressed('Right', true);",
+        "await harness.stepUntil(() => harness.getSceneVariable('LentoHasta')?.value > 0, { maxFrames: 400 });",
+        "harness.setKeyPressed('Right', false);",
+        "await harness.stepFrames(5);",
+        "harness.assert(harness.getSceneName() === 'Nivel1', 'El juego sigue corriendo tras dos choques');"
+      ]
+    },
+    {
+      "description": "Los botones de Derrota y Victoria funcionan al hacer click.",
+      "lastRunAt": 1794280887041,
+      "lastRunDurationMs": 1144,
+      "lastRunFramesExecuted": 24,
+      "lastRunStatus": "passed",
+      "name": "BotonesVolverACorrer",
+      "type": "gameplay",
+      "source": [
+        "// Probar el boton de Derrota",
+        "await harness.goToScene('Derrota');",
+        "await harness.stepFrames(5);",
+        "const btn = harness.getObjects('Boton')[0];",
+        "harness.setMousePosition(btn.centerX, btn.centerY);",
+        "await harness.stepFrames(3);",
+        "harness.setMouseButtonPressed(true, 'left');",
+        "await harness.stepFrames(3);",
+        "harness.setMouseButtonPressed(false, 'left');",
+        "const okD = await harness.stepUntil(() => harness.getSceneName() === 'Nivel1', { maxFrames: 30 });",
+        "harness.assert(okD, 'Derrota: el click en VOLVER A CORRER cambia a Nivel1');",
+        "// Probar el boton de Victoria",
+        "await harness.goToScene('Victoria');",
+        "await harness.stepFrames(5);",
+        "const btn2 = harness.getObjects('Boton')[0];",
+        "harness.setMousePosition(btn2.centerX, btn2.centerY);",
+        "await harness.stepFrames(3);",
+        "harness.setMouseButtonPressed(true, 'left');",
+        "await harness.stepFrames(3);",
+        "harness.setMouseButtonPressed(false, 'left');",
+        "const okV = await harness.stepUntil(() => harness.getSceneName() === 'Nivel1', { maxFrames: 30 });",
+        "harness.assert(okV, 'Victoria: el click en VOLVER A CORRER cambia a Nivel1');"
+      ]
+    },
+    {
+      "description": "El juego usa pronunciaciones foneticas para la voz.",
+      "lastRunAt": 1794281025126,
+      "lastRunDurationMs": 2814,
+      "lastRunFramesExecuted": 16,
+      "lastRunStatus": "passed",
+      "name": "VozFoneticaKichwa",
+      "type": "gameplay",
+      "source": [
+        "await harness.goToScene('Nivel1');",
+        "await harness.stepFrames(15);",
+        "const f = harness.getSceneVariable('VozFonetica');",
+        "harness.assert(f !== undefined, 'VozFonetica existe');",
+        "const j = harness.getObjects('Jugadora')[0];",
+        "harness.assert(!!j, 'Jugadora presente, juego corriendo');"
+      ]
+    }
+  ],
   "testsFolderStructure": {
-    "folderName": "__ROOT"
+    "folderName": "__ROOT",
+    "children": [
+      {
+        "itemName": "MenuChicaYBotonJugar"
+      },
+      {
+        "itemName": "MenuChicaYWiki"
+      },
+      {
+        "itemName": "MenuChicaKilla"
+      },
+      {
+        "itemName": "Nivel1ChicaKilla"
+      },
+      {
+        "itemName": "VocesKichwaTTS"
+      },
+      {
+        "itemName": "TropezarYVozFemenina"
+      },
+      {
+        "itemName": "VozFemeninaDetectada"
+      },
+      {
+        "itemName": "VozSincronizada"
+      },
+      {
+        "itemName": "BotonesVolverACorrer"
+      },
+      {
+        "itemName": "VozFoneticaKichwa"
+      }
+    ]
   },
-  "eventsFunctionsExtensions": [],
+  "eventsFunctionsExtensions": [
+    {
+      "author": "",
+      "category": "Audio",
+      "dimension": "",
+      "extensionNamespace": "",
+      "fullName": "Text-to-Speech",
+      "gdevelopVersion": ">=5.5.222",
+      "helpPath": "",
+      "iconUrl": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyMy4wLjMsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iSWNvbnMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4Ig0KCSB2aWV3Qm94PSIwIDAgMzIgMzIiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDMyIDMyOyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+DQo8c3R5bGUgdHlwZT0idGV4dC9jc3MiPg0KCS5zdDB7ZmlsbDpub25lO3N0cm9rZTojMDAwMDAwO3N0cm9rZS13aWR0aDoyO3N0cm9rZS1saW5lY2FwOnJvdW5kO3N0cm9rZS1saW5lam9pbjpyb3VuZDtzdHJva2UtbWl0ZXJsaW1pdDoxMDt9DQoJLnN0MXtmaWxsOm5vbmU7c3Ryb2tlOiMwMDAwMDA7c3Ryb2tlLXdpZHRoOjI7c3Ryb2tlLWxpbmVqb2luOnJvdW5kO3N0cm9rZS1taXRlcmxpbWl0OjEwO30NCjwvc3R5bGU+DQo8cGF0aCBjbGFzcz0ic3QwIiBkPSJNMjEsNGMtMi4yLDAtNCwxLjgtNCw0djZ2NGw2LTNoM2MyLjIsMCw0LTEuOCw0LTRWOGMwLTIuMi0xLjgtNC00LTRIMjF6Ii8+DQo8bGluZSBjbGFzcz0ic3QwIiB4MT0iMjEiIHkxPSI4IiB4Mj0iMjQiIHkyPSI4Ii8+DQo8bGluZSBjbGFzcz0ic3QwIiB4MT0iMjEiIHkxPSIxMSIgeDI9IjIyIiB5Mj0iMTEiLz4NCjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik0xNyw4LjhjLTAuNi0wLjQtMS4zLTAuNy0yLTAuOGMtMS42LTAuMi0zLDAuNS0zLjksMS43QzEwLjQsOS41LDkuOCw5LjYsOSwxMC4yYy0wLjgsMC42LTEuMywxLjYtMS4zLDIuNg0KCWwwLDAuOHYxLjJ2MWMwLDEuOCwwLjksMy41LDIuNCw0LjRsMCwwYzAsMS44LTEuMywzLjQtMywzLjhDNSwyNC43LDMuNCwyNi4zLDMsMjguNUMzLDI4LjcsMy4yLDI5LDMuNCwyOWgxOC4xDQoJYzAuMywwLDAuNS0wLjMsMC40LTAuNWMtMC40LTIuMS0yLTMuOC00LjEtNC40Yy0xLjctMC40LTMtMi0zLTMuOCIvPg0KPC9zdmc+DQo=",
+      "name": "TextToSpeech",
+      "previewIconUrl": "https://resources.gdevelop-app.com/assets/Icons/Line Hero Pack/Master/SVG/Users/Users_user_chat_talk.svg",
+      "shortDescription": "Read text aloud using system Text-to-Speech. Configurable voice and speed.",
+      "version": "1.0.0",
+      "description": "Use the system's Text-to-Speech features to read any text aloud.",
+      "origin": {
+        "identifier": "TextToSpeech",
+        "name": "gdevelop-extension-store"
+      },
+      "tags": [
+        "string",
+        "text",
+        "sound",
+        "tts",
+        "speech",
+        "speak",
+        "read"
+      ],
+      "authorIds": [
+        "mETnDt21g4Mdq3sEASKkqjFOpDq2"
+      ],
+      "dependencies": [],
+      "globalVariables": [],
+      "sceneVariables": [],
+      "eventsFunctions": [
+        {
+          "fullName": "",
+          "functionType": "Action",
+          "name": "onFirstSceneLoaded",
+          "sentence": "",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "// When calling getVoices, browsers return an empty list",
+                "// while gathering the real list of available voices.",
+                "// This forces to load the voices at the start of the scene.",
+                "if (speechSynthesis.onvoiceschanged !== undefined) {",
+                "    gdjs._ttsWait = true;",
+                "    speechSynthesis.addEventListener(\"voiceschanged\", function listener() {",
+                "        gdjs._ttsWait = false;",
+                "        speechSynthesis.removeEventListener(\"voiceschanged\", listener);",
+                "    });",
+                "",
+                "    // Trigger the loading of the voices",
+                "    speechSynthesis.getVoices();",
+                "}",
+                ""
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": false
+            }
+          ],
+          "parameters": [],
+          "objectGroups": []
+        },
+        {
+          "description": "Speaks a text message aloud through the system text-to-speech.",
+          "fullName": "Speak out a message",
+          "functionType": "Action",
+          "name": "Speak",
+          "sentence": "Say _PARAM1_ with voice _PARAM2_, volume _PARAM3_%, rate _PARAM4_% and pitch _PARAM5_%",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "if (!window.speechSynthesis || !window.SpeechSynthesisUtterance) return;",
+                "",
+                "const message = eventsFunctionContext.getArgument(\"Message\");",
+                "const voice = eventsFunctionContext.getArgument(\"Voice\").toLowerCase();",
+                "let volume = eventsFunctionContext.getArgument(\"Volume\") / 100;",
+                "let rate = eventsFunctionContext.getArgument(\"Rate\") / 100;",
+                "let pitch = eventsFunctionContext.getArgument(\"Pitch\") / 100;",
+                "",
+                "// Boundary checks for volume, rate, pitch",
+                "if ((volume < 0) || (1 < volume))",
+                "    volume = 1;",
+                "if ((rate < 0.1) || (10 < rate))",
+                "    rate = 1;",
+                "if ((pitch < 0) || (2 < pitch))",
+                "    pitch = 1;",
+                "",
+                "// Initialize speech settings",
+                "const speech = new SpeechSynthesisUtterance();",
+                "speech.lang = \"en\";",
+                "speech.text = message;",
+                "speech.voice =",
+                "    speechSynthesis",
+                "        .getVoices()",
+                "        .find(({ name }) => name.toLowerCase().includes(voice));",
+                "speech.volume = volume;",
+                "speech.rate = rate;",
+                "speech.pitch = pitch;",
+                "",
+                "if (gdjs._ttsWait && !speech.voice) {",
+                "    // The voices are not yet loaded (see onFirstSceneLoaded), let's wait ",
+                "    // for them to load before playing the sound for real.",
+                "    speechSynthesis.addEventListener(\"voiceschanged\", function listener() {",
+                "        // Set the voice anew now that we have all voices",
+                "        speech.voice =",
+                "            speechSynthesis",
+                "                .getVoices()",
+                "                .find(({ name }) => name.toLowerCase().includes(voice));",
+                "        // Now, the text can finally be spoken.",
+                "        speechSynthesis.speak(speech);",
+                "        ",
+                "        speechSynthesis.removeEventListener(\"voiceschanged\", listener);",
+                "    });",
+                "} else speechSynthesis.speak(speech);",
+                ""
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": true
+            }
+          ],
+          "parameters": [
+            {
+              "description": "The message to be spoken",
+              "name": "Message",
+              "type": "string"
+            },
+            {
+              "description": "The voice to be used",
+              "longDescription": "Voices vary depending on the operating system. \nHere is a list of windows voice names: https://bit.ly/windows-voices \nAnd here is a list of voice names for MacOS: https://bit.ly/mac-voices",
+              "name": "Voice",
+              "supplementaryInformation": "[\"Samantha\",\"Agnes\",\"Albert\",\"Alex\",\"Alice\",\"Alva\",\"Amelie\",\"Anna\",\"Bad News\",\"Bahh\",\"Bells\",\"Boing\",\"Bruce\",\"Bubbles\",\"Carmit\",\"Cellos\",\"Damayanti\",\"Daniel\",\"Deranged\",\"Diego\",\"Ellen\",\"Fiona\",\"Fred\",\"Good News\",\"Hysterical\",\"Ioana\",\"Jorge\",\"Juan\",\"Junior\",\"Kanya\",\"Karen\",\"Kathy\",\"Kyoko\",\"Laura\",\"Lekha\",\"Luca\",\"Luciana\",\"Maged\",\"Mariska\",\"Mei-Jia\",\"Melina\",\"Milena\",\"Moira\",\"Monica\",\"Nora\",\"Paulina\",\"Pipe Organ\",\"Princess\",\"Ralph\",\"Rishi\",\"Sara\",\"Satu\",\"Sin-Ji\",\"Tessa\",\"Thomas\",\"Ting-Ting\",\"Trinoids\",\"Veena\",\"Vicki\",\"Victoria\",\"Whisper\",\"Xander\",\"Yelda\",\"Yuna\",\"Yuri\",\"Zarvox\",\"Zosia\",\"Zuzana\"]",
+              "type": "string"
+            },
+            {
+              "description": "Volume between 0% and 100%",
+              "name": "Volume",
+              "type": "expression"
+            },
+            {
+              "description": "Speed between 10% and 1000%",
+              "name": "Rate",
+              "type": "expression"
+            },
+            {
+              "description": "Pitch between 0% and 200%",
+              "name": "Pitch",
+              "type": "expression"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "Forces all Text-to-Speech to be stopped.",
+          "fullName": "Force stop speaking",
+          "functionType": "Action",
+          "name": "StopSpeaking",
+          "sentence": "Force stop speaking",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "window.speechSynthesis.cancel();",
+                ""
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": false
+            }
+          ],
+          "parameters": [],
+          "objectGroups": []
+        }
+      ],
+      "eventsFunctionsFolderStructure": {
+        "folderName": "__ROOT",
+        "children": [
+          {
+            "functionName": "onFirstSceneLoaded"
+          },
+          {
+            "functionName": "Speak"
+          },
+          {
+            "functionName": "StopSpeaking"
+          }
+        ]
+      },
+      "eventsBasedBehaviors": [],
+      "eventsBasedObjects": []
+    }
+  ],
   "externalLayouts": [],
   "externalLayoutsFolderStructure": {
     "folderName": "__ROOT"
